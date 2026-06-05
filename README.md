@@ -28,7 +28,6 @@ Currently, I’m learning how AI can enhance cybersecurity and contribute to bui
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn]-(https://www.linkedin.com/in/mohamed-isfak-8a239b344)
-- ✉️ [Email]-(ishfak349@gmail.com)
 
 ---
 
