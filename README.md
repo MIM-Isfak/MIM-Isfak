@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Isfak 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+towards+MLOps+%2F+ML+Engineering;AWS+Community+Builder;CS+Undergrad+%40+University+of+Jaffna;Currently+learning%3A+Linux+%2B+MLOps+fundamentals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+towards+MLOps+%2F+ML+Engineering;AWS+Community+Builder;CS+Undergraduate+at+University+of+Jaffna;Currently+learning%3A+Linux+%2B+MLOps+fundamentals" alt="Typing SVG" />
 </p>
 
 <p align="center">
