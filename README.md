@@ -42,7 +42,7 @@
 |---|---|---|
 | 🤖 [**Kapru — AI Shopping Agent**](https://github.com/MIM-Isfak/kapru-project) | Multilingual conversational shopping assistant with product discovery, cart management, Gemini integration, and MCP support | Next.js, TypeScript, Gemini API, MCP, Vercel |
 | 🧠 [**Smart Classroom Edge AI System**](https://github.com/MIM-Isfak/Smart_Classroom_Edge_AI_System) | Team-based Edge AI system for real-time classroom occupancy detection using computer vision and containerized deployment | YOLOv8, ONNX, OpenCV, Docker, Streamlit |
-| ⏰ [**TimeAlert**](https://github.com/MIM-Isfak/timealert_app) | Full-stack timetable and notification system with JWT authentication, file parsing, scheduling, and automated email reminders | Spring Boot, React, PostgreSQL, JWT |
+| ⏰ [**TimeAlert**](https://github.com/MIM-Isfak/timealert_app) | Student timetable app with batch management, event updates, acknowledgements, and Web Push reminders | Spring Boot, React, PostgreSQL, Cloudflare Workers |
 | 🔐 [**DarkScan**](https://github.com/MIM-Isfak/DarkScan_app) | Java-based web security scanner with SSRF protection, safe content scanning, and security-focused request validation | Java, Spring Boot, REST API, Web Security |
 
 ---
