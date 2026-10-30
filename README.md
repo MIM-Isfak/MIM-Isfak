@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd-year **Computer Science undergraduate** at the University of Jaffna, Sri Lanka
+- 🎓 2nd-year **Computer Science undergraduate** at the University of Jaffna, Sri Lanka
 - ☁️ **Community & Outreach Lead — AWS Student Builder Group, University of Jaffna**
 - 🚀 Building my foundation in **MLOps, ML Systems, and AI Infrastructure**
 - 🔭 Currently learning **Linux, Docker, CI/CD, ML pipelines, model deployment, and cloud technologies**
