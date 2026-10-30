@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Isfak 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Isfak</h1>
 
 <p align="center">
   <b>Computer Science Undergraduate | Aspiring MLOps & ML Systems Engineer</b>
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd-year **Computer Science undergraduate** at the University of Jaffna, Sri Lanka
+- 🎓 3rd-year **Computer Science undergraduate** at the University of Jaffna, Sri Lanka
 - ☁️ **Community & Outreach Lead — AWS Student Builder Group, University of Jaffna**
 - 🚀 Building my foundation in **MLOps, ML Systems, and AI Infrastructure**
 - 🔭 Currently learning **Linux, Docker, CI/CD, ML pipelines, model deployment, and cloud technologies**
@@ -93,6 +93,7 @@
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
